@@ -5,31 +5,36 @@ public class Minion {
 		private int eyes; 
 		private String color; 
 		private String master;
-public Minion(String string, int i, String string2, String string3) {
+public Minion(String name, int i, String string2, String string3) {
 			// TODO Auto-generated constructor stub
-		}
-void getName() {
+	this.name=name;
+	eyes=i;
+color=string2;
+master=string3;
 }
- String setName() {
+String getName() {
 	return name;
+}
+ void setName(String name) {
+	 this.name = name;
 
 }
-void getEyes() {
-	
-}
-int setEyes() {
+int getEyes() {
 	return eyes;
 }
-void getColor() {
-	
+void setEyes(int eyes) {
+this.eyes=eyes;
 }
-String setColor() {
+String getColor() {
 	return color;
 }
-void getMaster() {
-	
+void setColor(String color) {
+	this.color=color;
 }
-String setMaster() {
+String getMaster() {
 	return master;
+}
+void setMaster(String master) {
+this.master = master;
 }
 }

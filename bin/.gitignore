@@ -1,4 +1,6 @@
+/Minion.class
 /MinionTest.class
+/Platypus.class
 /Recipes.html
 /extra/
 /Cup.class
@@ -6,10 +8,9 @@
 /Kettle.class
 /Microwave.class
 /Popcorn.class
+/Popcornmaker.class
 /TeaBag.class
 /TeaMaker.class
-/Minion.class
-/Popcornmaker.class
-/TeaRunner.class
 /TeaMakerRunner.class
-/Platypus.class
+/TeaParty.class
+/TeaPartyTest.class

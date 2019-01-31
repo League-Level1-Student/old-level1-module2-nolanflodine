@@ -1,13 +1,11 @@
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2018
  *    Level 1
  */
-
-
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
 
 /*
 
